@@ -1,0 +1,31 @@
+.banner {
+    margin-left: 150px;
+}
+.accessibility {
+    margin-top: 3px;
+    margin-left: 1px;
+}
+
+span{
+    font-style: italic;
+    color: brown;
+}
+
+.vidarr{
+    font-style: normal;
+    color:chocolate;
+}
+
+.representation{
+    margin-top: 13px;
+    margin-left: 1px;
+}
+
+.mimimi{
+    font-size: medium;
+    font-style: normal;
+}
+
+p{
+    font-weight: bold;
+}
